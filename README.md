@@ -18,9 +18,9 @@
 <br></br>
 
 # 📞 Contacts
-![Gmail](https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=mailto:ajhappy12@gmail) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?&logo=facebook&logoColor=white&link=https://www.facebook.com/ajhappy12)](https://www.facebook.com/ajhappy12)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ajhappy12@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?&logo=facebook&logoColor=white&link=https://www.facebook.com/ajhappy12)](https://www.facebook.com/ajhappy12)
 <br></br>
-# 📖 Status
+# 📖 Stats
 ###
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnJeongMin&row=1)](https://github.com/ryo-ma/github-profile-trophy)
  
