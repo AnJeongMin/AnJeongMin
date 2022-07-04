@@ -15,7 +15,6 @@
 
 ![Git](https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?&logo=github&logoColor=white) 
 ![Linux](https://img.shields.io/badge/linux-FCC624?&logo=linux&logoColor=white) ![PostMan](https://img.shields.io/badge/postman-FF6C37?&logo=postman&logoColor=white)
-
 <br></br>
 ![Contact](https://img.shields.io/badge/CONTACT-C1DBFF?&logoColor=white)
 
