@@ -1,5 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnJeongMin&count_bg=%234DE187&title_bg=%237CB3FF&icon=waze.svg&icon_color=%2316272D&title=HIT&edge_flat=false)]
-(https://github.com/AnJeongMin)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnJeongMin&count_bg=%234DE187&title_bg=%237CB3FF&icon=waze.svg&icon_color=%2316272D&title=HIT&edge_flat=false)](https://github.com/AnJeongMin)
 
 
 ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white) &nbsp;![java](https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white)
