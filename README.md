@@ -26,7 +26,7 @@
  
 [![AnJeongMin's github stats](https://github-readme-stats.vercel.app/api?username=AnJeongMin&show_icons=true)](https://github.com/AnJeongMin) 
 <br></br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajhappy12)](https://solved.ac/ajhappy12/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajhappy12)](https://solved.ac/ajhappy12/) -->
 [![AnJeongMin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnJeongMin&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)](https://github.com/AnJeongMin) 
 
 </div>
