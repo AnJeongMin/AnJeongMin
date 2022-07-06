@@ -13,7 +13,7 @@
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?&logo=github&logoColor=white) 
-![Linux](https://img.shields.io/badge/linux-FCC624?&logo=linux&logoColor=white) 
+![Linux](https://img.shields.io/badge/linux-FCC624?&logo=linux&logoColor=black) 
 
 ![VScode](https://img.shields.io/badge/VScode-007ACC?&logo=visual-studio-code&logoColor=white) ![Intellij](https://img.shields.io/badge/IntelliJ-000000?&logo=intelliJ-idea&logoColor=white) ![PostMan](https://img.shields.io/badge/postman-FF6C37?&logo=postman&logoColor=white)
 <br></br>
