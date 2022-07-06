@@ -5,7 +5,7 @@
 <br></br><br></br><br></br>
 # 🎓 Skills
 ### Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white) ![java](https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white) ![java](https://img.shields.io/badge/Java-FFFFFF?&logo=Openjdk&logoColor=black)
 ![C-lang](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 
 
